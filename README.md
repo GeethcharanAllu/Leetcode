@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GeethcharanAllu/Leetcode/tree/master/0001-two-sum) |
+| [1991-find-the-middle-index-in-array](https://github.com/GeethcharanAllu/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GeethcharanAllu/Leetcode/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/GeethcharanAllu/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
