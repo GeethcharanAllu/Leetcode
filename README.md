@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/GeethcharanAllu/Leetcode/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/GeethcharanAllu/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/GeethcharanAllu/Leetcode/tree/master/0682-baseball-game) |
 | [1991-find-the-middle-index-in-array](https://github.com/GeethcharanAllu/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/GeethcharanAllu/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/GeethcharanAllu/Leetcode/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/GeethcharanAllu/Leetcode/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
@@ -38,4 +40,8 @@
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/GeethcharanAllu/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/GeethcharanAllu/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
