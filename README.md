@@ -8,6 +8,7 @@
 | [0485-max-consecutive-ones](https://github.com/GeethcharanAllu/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/GeethcharanAllu/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/GeethcharanAllu/Leetcode/tree/master/0682-baseball-game) |
+| [1598-crawler-log-folder](https://github.com/GeethcharanAllu/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1991-find-the-middle-index-in-array](https://github.com/GeethcharanAllu/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GeethcharanAllu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/GeethcharanAllu/Leetcode/tree/master/0020-valid-parentheses) |
+| [1598-crawler-log-folder](https://github.com/GeethcharanAllu/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GeethcharanAllu/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GeethcharanAllu/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
@@ -33,6 +35,7 @@
 | [0155-min-stack](https://github.com/GeethcharanAllu/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/GeethcharanAllu/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/GeethcharanAllu/Leetcode/tree/master/0682-baseball-game) |
+| [1598-crawler-log-folder](https://github.com/GeethcharanAllu/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GeethcharanAllu/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GeethcharanAllu/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Design
