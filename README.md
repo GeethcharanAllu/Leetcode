@@ -21,6 +21,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/GeethcharanAllu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/GeethcharanAllu/Leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GeethcharanAllu/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/GeethcharanAllu/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0496-next-greater-element-i](https://github.com/GeethcharanAllu/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/GeethcharanAllu/Leetcode/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GeethcharanAllu/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/GeethcharanAllu/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/GeethcharanAllu/Leetcode/tree/master/0682-baseball-game) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/GeethcharanAllu/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
