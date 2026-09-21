@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/GeethcharanAllu/Leetcode/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/GeethcharanAllu/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/GeethcharanAllu/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/GeethcharanAllu/Leetcode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/GeethcharanAllu/Leetcode/tree/master/0682-baseball-game) |
 | [1598-crawler-log-folder](https://github.com/GeethcharanAllu/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1991-find-the-middle-index-in-array](https://github.com/GeethcharanAllu/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/GeethcharanAllu/Leetcode/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/GeethcharanAllu/Leetcode/tree/master/0622-design-circular-queue) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -60,4 +62,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/GeethcharanAllu/Leetcode/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/GeethcharanAllu/Leetcode/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/GeethcharanAllu/Leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
