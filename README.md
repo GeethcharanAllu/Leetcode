@@ -8,6 +8,7 @@
 | [0485-max-consecutive-ones](https://github.com/GeethcharanAllu/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/GeethcharanAllu/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/GeethcharanAllu/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/GeethcharanAllu/Leetcode/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/GeethcharanAllu/Leetcode/tree/master/0682-baseball-game) |
 | [1598-crawler-log-folder](https://github.com/GeethcharanAllu/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1991-find-the-middle-index-in-array](https://github.com/GeethcharanAllu/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/GeethcharanAllu/Leetcode/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/GeethcharanAllu/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/GeethcharanAllu/Leetcode/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/GeethcharanAllu/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Bracket Sequences
 |  |
@@ -70,10 +72,12 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/GeethcharanAllu/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/GeethcharanAllu/Leetcode/tree/master/0641-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/GeethcharanAllu/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/GeethcharanAllu/Leetcode/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/GeethcharanAllu/Leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/GeethcharanAllu/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/GeethcharanAllu/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
