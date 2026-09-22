@@ -11,6 +11,7 @@
 | [0682-baseball-game](https://github.com/GeethcharanAllu/Leetcode/tree/master/0682-baseball-game) |
 | [1598-crawler-log-folder](https://github.com/GeethcharanAllu/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1991-find-the-middle-index-in-array](https://github.com/GeethcharanAllu/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/GeethcharanAllu/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/GeethcharanAllu/Leetcode/tree/master/0682-baseball-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/GeethcharanAllu/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GeethcharanAllu/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -72,6 +74,7 @@
 | ------- |
 | [0622-design-circular-queue](https://github.com/GeethcharanAllu/Leetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/GeethcharanAllu/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/GeethcharanAllu/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
