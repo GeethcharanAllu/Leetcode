@@ -23,6 +23,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GeethcharanAllu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/GeethcharanAllu/Leetcode/tree/master/0020-valid-parentheses) |
+| [0649-dota2-senate](https://github.com/GeethcharanAllu/Leetcode/tree/master/0649-dota2-senate) |
 | [1598-crawler-log-folder](https://github.com/GeethcharanAllu/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GeethcharanAllu/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/GeethcharanAllu/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -73,10 +74,15 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/GeethcharanAllu/Leetcode/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/GeethcharanAllu/Leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/GeethcharanAllu/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/GeethcharanAllu/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/GeethcharanAllu/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/GeethcharanAllu/Leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
