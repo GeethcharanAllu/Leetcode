@@ -50,6 +50,7 @@
 | [0155-min-stack](https://github.com/GeethcharanAllu/Leetcode/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/GeethcharanAllu/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/GeethcharanAllu/Leetcode/tree/master/0641-design-circular-deque) |
+| [0707-design-linked-list](https://github.com/GeethcharanAllu/Leetcode/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/GeethcharanAllu/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Bracket Sequences
 |  |
@@ -75,6 +76,7 @@
 | ------- |
 | [0622-design-circular-queue](https://github.com/GeethcharanAllu/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/GeethcharanAllu/Leetcode/tree/master/0641-design-circular-deque) |
+| [0707-design-linked-list](https://github.com/GeethcharanAllu/Leetcode/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
