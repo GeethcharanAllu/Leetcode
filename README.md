@@ -74,6 +74,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/GeethcharanAllu/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/GeethcharanAllu/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/GeethcharanAllu/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/GeethcharanAllu/Leetcode/tree/master/0641-design-circular-deque) |
@@ -115,5 +116,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/GeethcharanAllu/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/GeethcharanAllu/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
