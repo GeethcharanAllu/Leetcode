@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GeethcharanAllu/Leetcode/tree/master/0001-two-sum) |
+| [0239-sliding-window-maximum](https://github.com/GeethcharanAllu/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/GeethcharanAllu/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/GeethcharanAllu/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/GeethcharanAllu/Leetcode/tree/master/0622-design-circular-queue) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GeethcharanAllu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/GeethcharanAllu/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Stack
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/GeethcharanAllu/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/GeethcharanAllu/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/GeethcharanAllu/Leetcode/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/GeethcharanAllu/Leetcode/tree/master/0649-dota2-senate) |
@@ -89,4 +92,16 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/GeethcharanAllu/Leetcode/tree/master/0649-dota2-senate) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/GeethcharanAllu/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/GeethcharanAllu/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/GeethcharanAllu/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
