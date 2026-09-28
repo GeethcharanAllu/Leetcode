@@ -77,6 +77,7 @@
 | [0622-design-circular-queue](https://github.com/GeethcharanAllu/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/GeethcharanAllu/Leetcode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/GeethcharanAllu/Leetcode/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/GeethcharanAllu/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/GeethcharanAllu/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/GeethcharanAllu/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
